@@ -23,8 +23,8 @@ Graduated in **Computer Science and Engineering (CSE)**, I specialize in the **M
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifrahman&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifrahman&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arif1101&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif1101&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>  
 
 <p align="center">
