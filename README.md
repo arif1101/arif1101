@@ -1,7 +1,7 @@
 # Welcome to my coding universe ✨ | Building smart web apps 
 
 
-![Banner](https://i.ibb.co.com/rGmjMXjN/Black-Modern-Personal-Linked-In-Banner-2.png) 
+![Banner](https://i.ibb.co.com/K1Yrhr9/Black-and-Yellow-Web-Developer-Linked-In-Banner.png) 
 
 ## 👨‍💻 About Me  
 I am a **Full Stack Web Developer** with a strong passion for building modern, scalable, and user-friendly web applications. With a strong foundation in **MERN stack** and a keen interest in AI to integrate with web application. I'm dedicated to simplifying **development workflows.**
