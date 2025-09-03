@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Arif Rahman — a Full Stack Web Developer passionate about creating scalable and user-friendly applications. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and have experience with TypeScript and Tailwind CSS.<br><br>🚀 Currently, I’m exploring Machine Learning with Python and aiming to bridge web development with AI solutions.<br><br>💡 I enjoy solving real-world problems, contributing to open-source projects, and continuously learning new technologies.
 
+![Full Stack Web Developer](https://i.ibb.co.com/PqQ8zzk/Black-Modern-Personal-Linked-In-Banner-1.png)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arifur-rahman223/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Arifur Rahman arif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifurrahmanarif223@gmail.com) 
