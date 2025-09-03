@@ -3,12 +3,13 @@
 ![Banner](https://i.ibb.co.com/rGmjMXjN/Black-Modern-Personal-Linked-In-Banner-2.png) 
 
 ## 👨‍💻 About Me  
-I am a **Full Stack Web Developer** with a strong passion for building modern, scalable, and user-friendly web applications.  
-Graduated in **Computer Science and Engineering (CSE)**, I specialize in the **MERN Stack** and continuously explore new technologies like **Machine Learning, AI, and Blockchain**.  
+I am a **Full Stack Web Developer** with a strong passion for building modern, scalable, and user-friendly web applications. With a strong foundation in **MERN stack** and a keen interest in AI to integrate with web application. I'm dedicated to simplifying **development workflows.**
+
+Graduated in **Computer Science and Engineering (CSE)**, I specialize in the **MERN Stack** and continuously explore new technologies on my field. 
 
 🌍 Based in: Dhaka, Bangladesh  
-📧 Reach me at: [arif.dev@gmail.com](mailto:arif.dev@gmail.com)  
-🔗 Connect with me: [LinkedIn](#) | [Portfolio](#)  
+📧 Reach me at: [arifurrahmanarif223@gmail.com](arifurrahmanarif223@gmail.com)  
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/arifur-rahman223/) | [Portfolio](https://my-portfolio-woad-ten-74.vercel.app/)  
 
 ---
 
@@ -28,7 +29,7 @@ Graduated in **Computer Science and Engineering (CSE)**, I specialize in the **M
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifrahman&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif1101&layout=compact&theme=tokyonight" alt="Top Languages" weidth="150" height="150"/>
 </p>
 
 ---
