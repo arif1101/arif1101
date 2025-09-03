@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arif Rahman  
 
-![Banner](https://i.ibb.co.com/rGmjMXjN/Black-Modern-Personal-Linked-In-Banner-2.png)  
+![Banner](https://i.ibb.co.com/rGmjMXjN/Black-Modern-Personal-Linked-In-Banner-2.png) 
 
 ## 👨‍💻 About Me  
 I am a **Full Stack Web Developer** with a strong passion for building modern, scalable, and user-friendly web applications.  
