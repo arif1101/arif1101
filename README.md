@@ -15,9 +15,21 @@ Graduated in **Computer Science and Engineering (CSE)**, I specialize in the **M
 
 ## 🛠️ Technology Stack  
 
+### Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,nodejs,express,mongodb,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux" />
 </p>
+
+### Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
+</p>
+
+### Tools & Others  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
 
 ---
 
@@ -36,21 +48,20 @@ Graduated in **Computer Science and Engineering (CSE)**, I specialize in the **M
 
 ## 🚀 Featured Projects  
 
-### 🛒 [ByteBistro – Restaurant Management System](#)  
-A full-featured restaurant management app with modern UI and seamless order management.  
-**Tech Used:** React, Node.js, Express, MongoDB, Tailwind CSS  
+### 🛒 [AadilPay – Digital Wallet System](https://github.com/arif1101/AadilPay-client)  (client)
+### 🛒 [AadilPay – Digital Wallet System](https://github.com/arif1101/AadilPay-backend)  (server)
+A **secure, role-based digital wallet frontend application** (similar to **bKash** or **Nagad**) 
+Frontend : **Typescript, React, Redux Toolkit, RTK Query, Tailwind CSS 4,  Shadcn**.
+Backend : **Node.js, Express.js, TypeScript, Mongoose, MongoDB**
 
 ---
 
-### 🎯 [Sports Equipment Store](#)  
-An eCommerce web app with advanced search and secure checkout.  
-**Tech Used:** MERN Stack, JWT, Zod, ESLint  
+### 🛒 [AadilPay – Digital Wallet System](https://github.com/arif1101/Book-Management)  (client)
+### 🎯 [Book Management](https://github.com/arif1101/book-management-with-mongo)  (backend)  
+A clean and minimal library management frontend built with:
+Frontend : **Typescript, React, RTK Query, Tailwind CSS 4**.
+Backend : **Node.js, Express.js, TypeScript, Mongoose, MongoDB**
 
----
-
-### 🐾 [Pet Shop Platform](#)  
-A modern platform to explore and purchase pet supplies.  
-**Tech Used:** React, Express, MongoDB  
 
 ---
 
