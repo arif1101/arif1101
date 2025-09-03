@@ -1,36 +1,50 @@
-# Welcome to my coding universe ✨ | Building smart web apps 
+# Welcome to my Coding Universe ✨ | Crafting Smart Web Apps  
 
+![Banner](https://i.ibb.co.com/K1Yrhr9/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)  
 
-![Banner](https://i.ibb.co.com/K1Yrhr9/Black-and-Yellow-Web-Developer-Linked-In-Banner.png) 
+---
 
 ## 👨‍💻 About Me  
-I am a **Full Stack Web Developer** with a strong passion for building modern, scalable, and user-friendly web applications. With a strong foundation in **MERN stack** and a keen interest in AI to integrate with web application. I'm dedicated to simplifying **development workflows.**
 
-Graduated in **Computer Science and Engineering (CSE)**, I specialize in the **MERN Stack** and continuously explore new technologies on my field. 
+I am a **Full Stack Web Developer** passionate about creating modern, scalable, and user-friendly web applications.  
+My expertise lies in the **MERN Stack**, and I’m also exploring **AI integration** to build smarter solutions that simplify **development workflows**.  
 
-🌍 Based in: Dhaka, Bangladesh  
-📧 Reach me at: [arifurrahmanarif223@gmail.com](arifurrahmanarif223@gmail.com)  
-🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/arifur-rahman223/) | [Portfolio](https://my-portfolio-woad-ten-74.vercel.app/)  
+🎓 Graduated in **Computer Science and Engineering (CSE)**  
+🌱 Continuously learning and expanding my skills in **web technologies & AI**  
+⚡ Focused on delivering **clean code, optimized performance, and great user experiences**  
+
+---
+
+## 📍 Where to Find Me  
+
+- 🌍 **Location:** Dhaka, Bangladesh  
+- 📧 **Email:** [arifurrahmanarif223@gmail.com](mailto:arifurrahmanarif223@gmail.com)  
+- 🔗 **Links:** [LinkedIn](https://www.linkedin.com/in/arifur-rahman223/) • [Portfolio](https://my-portfolio-woad-ten-74.vercel.app/)  
 
 ---
 
 ## 🛠️ Technology Stack  
 
-### Frontend  
+---
+
+### 🎨 Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux" alt="Frontend Skills" />
 </p>
 
-### Backend  
+---
+
+### ⚙️ Backend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" alt="Backend Skills" />
 </p>
 
-### Tools & Others  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+---
 
+### 🧰 Tools & Others  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
+</p>
 
 ---
 
