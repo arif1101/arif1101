@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arif Rahman  
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile)  
+![Banner](https://i.ibb.co.com/rGmjMXjN/Black-Modern-Personal-Linked-In-Banner-2.png)  
 
 ## 👨‍💻 About Me  
 I am a **Full Stack Web Developer** with a strong passion for building modern, scalable, and user-friendly web applications.  
