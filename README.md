@@ -74,7 +74,6 @@ Backend : **Node.js, Express.js, TypeScript, Mongoose, MongoDB**
 
 ## 📬 Let's Connect  
 <p align="center">
-  <a href="mailto:arif.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://linkedin.com/in/arifrahman"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/arifrahman"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="arifurrahmanarif223@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/arifur-rahman223/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
