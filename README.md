@@ -9,5 +9,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 
 
+![Riduan's github](https://github-readme-stats.vercel.app/api?username=smRid&show_icons=true&hide_border=true)
+
 
 
