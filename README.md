@@ -81,6 +81,6 @@ A minimal **library management system**
 
 ## 📌 Current Status  
 
-- 🔭 Currently working on: **AI-powered Image Detection with Transfer Learning**  
-- 🌱 Learning: **Machine Learning & NumPy**  
+- 🔭 Currently working on: **EduTech project**  
+- 🌱 Learning: **Learning SQL**  
 - ⚡ Fun fact: *I treat coding like a game—it keeps me motivated and disciplined!*  
